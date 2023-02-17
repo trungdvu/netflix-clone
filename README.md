@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-- [Netlify](https://tdv-netflix-clone.netlify.app)
+- [Vercel](https://nfc-trungdvu.vercel.app)
 - [Youtube (4mins)](https://www.youtube.com/watch?v=ZF2_Z1vPavg)
 
 ## Tech Stack
